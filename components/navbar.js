@@ -9,7 +9,6 @@ const Navbar = () => {
     "Serviços",
     "Clientes",
     "Conheça-nos",
-    "Blog",
     "Contato",
   ];
 

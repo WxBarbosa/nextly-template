@@ -16,10 +16,10 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>Chantek Inovação e Tecnologia</title>
+        <title>Chantek Tecnologia e Inovação</title>
         <meta
           name="description"
-          content="Chantek Inovação e Tecnologia"
+          content="Chantek Tecnologia e Inovação"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -29,33 +29,24 @@ const Home = () => {
       <SectionTitle
         pretitle="Serviços"
         title=" Por que nós somos o parceiro ideal para seu negócio">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        Possuímos um time inteiramente disposto a ajudar você e seu negócio com o auxílio de anos de experiência, atuando de forma
+        responsável e autêntica ao seu projeto. Conte com um pipeline de processos completo.
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
-      <SectionTitle
-        pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
+      {/* <SectionTitle
+        pretitle="Assistir video"
+        title="Vamos entender exatamente como podemos te ajudar">
         This section is to highlight a promo or demo video of your product.
         Analysts says a landing page with video has 3% more conversion rate. So,
         don&apos;t forget to add one. Just like this.
       </SectionTitle>
-      <Video />
+      <Video /> */}
       <SectionTitle
-        pretitle="Testimonials"
-        title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        pretitle="Testemunhos"
+        title="Aqui apresentamos um pouquinho da experiência de nossos clientes">
       </SectionTitle>
       <Testimonials />
-      <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
-        Answer your customers possible questions here, it will increase the
-        conversion rate as well as support or chat requests.
-      </SectionTitle>
-      <Faq />
-      <Cta />
       <Footer />
       <PopupWidget />
     </>
