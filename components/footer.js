@@ -63,7 +63,7 @@ export default function Footer() {
                 <Instagram />
               </a>
               <a
-                href="https://www.instagram.com/chantek.innovation"
+                href="https://www.linkedin.com/company/chantektecnologiainovacao"
                 target="_blank"
                 rel="noopener">
                 <span className="sr-only">Linkedin</span>

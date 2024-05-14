@@ -27,7 +27,7 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              A <Mark>Chantek</Mark> veio para trazer grandes benefícios para nossos projetos. Tem sido uma ótima experiência atuar eles.
+              A <Mark>Chantek</Mark> veio para trazer grandes benefícios para nossos projetos. Tem sido uma ótima experiência atuar com eles.
             </p>
 
             <Avatar
