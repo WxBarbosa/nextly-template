@@ -19,7 +19,7 @@ const Testimonials  = () => {
 
             <Avatar
               image={userOneImg}
-              name="Paulo Cereser"
+              name="Laís Cereser"
               title="C&O em Kumon Perimetral"
             />
           </div>
